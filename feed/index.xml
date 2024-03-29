@@ -9,8 +9,8 @@
 
 <channel>
 	<title>L&amp;L Charter</title>
-	<atom:link href="/l-l-charter//feed/" rel="self" type="application/rss+xml" />
-	<link>/l-l-charter//</link>
+	<atom:link href="https://fill-x.github.io/l-l-charter/feed/" rel="self" type="application/rss+xml" />
+	<link>https://fill-x.github.io/l-l-charter/</link>
 	<description></description>
 	<lastBuildDate>Fri, 29 Mar 2024 11:58:06 +0000</lastBuildDate>
 	<language>en-US</language>
